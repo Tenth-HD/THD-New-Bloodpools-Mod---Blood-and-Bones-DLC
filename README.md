@@ -1,4 +1,6 @@
 # THD New Bloodpools v1.1 - Blood and Bones DLC
+![Alt text](Example_Images/Thumbnail.png "a title")
+
 DISCLAIMER - Due to the mod replacing the JSON file for vfx, game updates have a high chance of breaking the mod.
 
 **Last Known Compatiblility for Age of Mythology Retold:** v.100.19.5934.0 (595758R)
