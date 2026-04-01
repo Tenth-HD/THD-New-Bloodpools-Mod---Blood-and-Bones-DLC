@@ -1,0 +1,11 @@
+<protomods>
+    <unit name="Argus">
+        <bloodgroupoverride>mythbloodgreennoskeleton</bloodgroupoverride>
+    </unit>
+    <unit name="Scarab">
+        <bloodgroupoverride>mythbloodpurplenoskeleton</bloodgroupoverride>
+    </unit>
+    <unit name="TitanAtlantean">
+        <bloodgroupoverride>titanbloodyellow</bloodgroupoverride>
+    </unit>
+</protomods>
