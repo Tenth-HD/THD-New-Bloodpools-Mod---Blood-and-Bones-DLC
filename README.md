@@ -13,10 +13,11 @@ Description: This mod edits the regular and prismatic bloodpool textures to:
      * Recolored textures to be slightly darker
      * Reduced the texture size to have smaller ingame bloodpools
      * Added new blood pools for more variety
-     * Assigned more appropriate bloodcolors for myth units
+     * Assigned more appropriate bloodcolors for myth units, with red being the new default
      * Ensured the ingame reflections work with new textures
     
-
+If unhappy with myth unit color choices, simply move/delete the <**proto_mods.xml**> file in the folder: **_481410_thd new bloodpools - blood and bones dlc/game/data/_** to revert to original DLC color assignments. You may need to save a local copy of the mod to prevent verification errors.
+    
 Currently Unknown - How to replace blood damage overlays to match unit blood colors.
 
 ## Changelog
