@@ -110,6 +110,9 @@
     <unit name="FenrisWolfBrood">
         <bloodgroupoverride>mythbloodred</bloodgroupoverride>
     </unit>
+    <unit name="FireGiant">
+        <bloodgroupoverride>mythbloodyellownoskeleton</bloodgroupoverride>
+    </unit>
     <unit name="Fafnir">
         <bloodgroupoverride>mythbloodyellownoskeleton</bloodgroupoverride>
     </unit>

@@ -75,6 +75,16 @@
 		<decal>blood_pool16</decal>
 		<decal>blood_pool17</decal>
 		<decal>blood_pool18</decal>
+		<decal>thd_bloodpool01</decal>
+		<decal>thd_bloodpool02</decal>
+		<decal>thd_bloodpool03</decal>
+		<decal>thd_bloodpool04</decal>
+		<decal>thd_bloodpool05</decal>
+		<decal>thd_bloodpool06</decal>
+		<decal>thd_bloodpool07</decal>
+		<decal>thd_bloodpool08</decal>
+		<decal>thd_bloodpool09</decal>
+		<decal>thd_bloodpool10</decal>
 		<splatdecal>blood_splatter01</splatdecal>
 		<splatdecal>blood_splatter02</splatdecal>
 		<splatdecal>blood_splatter03</splatdecal>
@@ -105,6 +115,16 @@
 		<decal>blood_pool16</decal>
 		<decal>blood_pool17</decal>
 		<decal>blood_pool18</decal>
+		<decal>thd_bloodpool01</decal>
+		<decal>thd_bloodpool02</decal>
+		<decal>thd_bloodpool03</decal>
+		<decal>thd_bloodpool04</decal>
+		<decal>thd_bloodpool05</decal>
+		<decal>thd_bloodpool06</decal>
+		<decal>thd_bloodpool07</decal>
+		<decal>thd_bloodpool08</decal>
+		<decal>thd_bloodpool09</decal>
+		<decal>thd_bloodpool10</decal>
 		<splatdecal>blood_splatter01</splatdecal>
 		<splatdecal>blood_splatter02</splatdecal>
 		<splatdecal>blood_splatter03</splatdecal>
@@ -150,6 +170,16 @@
 		<decal>blood_pool16</decal>
 		<decal>blood_pool17</decal>
 		<decal>blood_pool18</decal>
+		<decal>thd_bloodpool01</decal>
+		<decal>thd_bloodpool02</decal>
+		<decal>thd_bloodpool03</decal>
+		<decal>thd_bloodpool04</decal>
+		<decal>thd_bloodpool05</decal>
+		<decal>thd_bloodpool06</decal>
+		<decal>thd_bloodpool07</decal>
+		<decal>thd_bloodpool08</decal>
+		<decal>thd_bloodpool09</decal>
+		<decal>thd_bloodpool10</decal>
 		<splatdecal>blood_splatter01</splatdecal>
 		<splatdecal>blood_splatter02</splatdecal>
 		<splatdecal>blood_splatter03</splatdecal>
@@ -195,6 +225,16 @@
 		<decal>blood_pool16</decal>
 		<decal>blood_pool17</decal>
 		<decal>blood_pool18</decal>
+		<decal>thd_bloodpool01</decal>
+		<decal>thd_bloodpool02</decal>
+		<decal>thd_bloodpool03</decal>
+		<decal>thd_bloodpool04</decal>
+		<decal>thd_bloodpool05</decal>
+		<decal>thd_bloodpool06</decal>
+		<decal>thd_bloodpool07</decal>
+		<decal>thd_bloodpool08</decal>
+		<decal>thd_bloodpool09</decal>
+		<decal>thd_bloodpool10</decal>
 		<splatdecal>blood_splatter01</splatdecal>
 		<splatdecal>blood_splatter02</splatdecal>
 		<splatdecal>blood_splatter03</splatdecal>
@@ -221,6 +261,7 @@
 		<noskullbonepile>bloodpack\buildings\props\bone_piles_small_noskull_06</noskullbonepile>
 	</bloodgroup>
 	<bloodgroup name="defaultmythblood">
+		<protobloodgroup>mythbloodred</protobloodgroup>
 		<protobloodgroup>mythbloodblue</protobloodgroup>
 		<protobloodgroup>mythbloodpurple</protobloodgroup>
 		<protobloodgroup>mythbloodgreen</protobloodgroup>
