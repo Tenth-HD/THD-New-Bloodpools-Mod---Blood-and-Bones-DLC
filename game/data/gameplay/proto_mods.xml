@@ -1,4 +1,7 @@
 <protomods>
+    <unit name="Hippocampus">
+        <bloodgroupoverride>mythbloodred</bloodgroupoverride>
+    </unit>
     <unit name="Centaur">
         <bloodgroupoverride>defaultbloodhorse</bloodgroupoverride>
     </unit>
@@ -26,8 +29,11 @@
     <unit name="Hydra">
         <bloodgroupoverride>mythbloodpurple</bloodgroupoverride>
     </unit>
-    <unit name="Chimera">
+    <unit name="Scylla">
         <bloodgroupoverride>mythbloodpurple</bloodgroupoverride>
+    </unit>
+    <unit name="Chimera">
+        <bloodgroupoverride>mythbloodpurplenoskeletonnopool</bloodgroupoverride>
     </unit>
     <unit name="Siren">
         <bloodgroupoverride>mythbloodrainbow</bloodgroupoverride>
