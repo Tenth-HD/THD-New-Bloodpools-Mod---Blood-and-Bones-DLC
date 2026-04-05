@@ -5,22 +5,32 @@ DISCLAIMER - Due to the mod replacing the JSON file for vfx, game updates have a
 
 **Last Known Compatiblility for Age of Mythology Retold:** v.100.19.5934.0 (595758R)
       
-New Changes: Assigned more appropriate blood colors to each myth unit. Added 8 new red bloodpools. Added 10 prismatic bloodpools to all colors besides rainbow and white, 5 to whitegold, and 6 to rainbow.
+New Changes: Due to new features, I've decided to split this mod. The myth unit blood assignments has been moved to my new mod "THD Improved Battle Damage," which also assigns the appropriate battle damage color to the unit for their blood. This mod still contains the new and replaced blood pools 
 
-Description: This mod edits the regular and prismatic bloodpool textures to:
+Description: This mod edits the original red bloodpools while adding new red and prismatic bloodpool textures in order to:
 
      * Be more splattered and less cartoony
      * Recolored textures to be slightly darker
      * Reduced the texture size to have smaller ingame bloodpools
      * Added new blood pools for more variety
-     * Assigned more appropriate bloodcolors for myth units, with red being the new default
      * Ensured the ingame reflections work with new textures
-    
-If unhappy with myth unit color choices, simply move/delete the <**proto_mods.xml**> file in the folder: **_481410_thd new bloodpools - blood and bones dlc/game/data/_** to revert to original DLC color assignments. You may need to save a local copy of the mod to prevent verification errors.
-    
-Currently Unknown - How to replace blood damage overlays to match unit blood colors.
 
 ## Changelog
+
+v 1.3
+
+     * Split mod for the following
+          + Keeps the replaced red bloodpool textures
+          + Keeps the new red and prismatic bloodpool textures
+          + Assigns all of these textures to their appropriate blood groups
+               + Adds these textures to new <bloodgroups> mythbloodred and titanbloodred
+               * These bloodgroups are unused in this mod, but are utilized in the improved battle damage mod
+          - Loses myth unit blood color assignments, the proto_mods file is now in the improved battle damage mod.
+v 1.2
+
+     * Converted blood.xml into additive xml format
+     * Assigned and adjusted blood colors to myth units that were missed in 1.1
+     
 v 1.1
 
      * Added 10 new prismatic bloodpools for all colors except white and rainbow. A mix of edited 4 prismatic and 6 recolored small pools
@@ -46,7 +56,5 @@ v 1.0
 WankingSkeever - For blood textures from their Skyrim mod
 
 AlanWake - For original blood mod
-
-KJohnHayes - For Myth unit blood color suggestion spreadsheet https://forums.ageofempires.com/t/blood-and-bones-pack-feedback/284996/21
 
 PngAAA.com - For some blood textures
