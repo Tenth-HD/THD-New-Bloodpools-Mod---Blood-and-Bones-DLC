@@ -1,11 +1,11 @@
-# THD New Bloodpools v1.1 - Blood and Bones DLC
+# THD New Bloodpools - Blood and Bones DLC
 ![Alt text](Example_Images/Thumbnail.png "a title")
 
 DISCLAIMER - Due to the mod replacing the JSON file for vfx, game updates have a high chance of breaking the mod.
 
 **Last Known Compatiblility for Age of Mythology Retold:** v.100.19.5934.0 (595758R)
       
-New Changes: Due to new features, I've decided to split this mod. The myth unit blood assignments has been moved to my new mod "THD Improved Battle Damage," which also assigns the appropriate battle damage color to the unit for their blood. This mod still contains the new and replaced blood pools 
+v 1.3 New Changes: Due to new features, I've decided to split this mod. The myth unit blood assignments has been moved to my new compatible mod "THD Improved Battle Damage," which also assigns the appropriate battle damage color to the unit for their blood. This mod still contains the new and replaced blood pools 
 
 Description: This mod edits the original red bloodpools while adding new red and prismatic bloodpool textures in order to:
 
