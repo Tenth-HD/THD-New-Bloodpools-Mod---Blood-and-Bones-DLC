@@ -3,7 +3,7 @@
 
 DISCLAIMER - Due to the mod replacing the JSON file for vfx, game updates have a high chance of breaking the mod.
 
-**Last Known Compatiblility for Age of Mythology Retold:** v.100.19.5934.0 (595758R)
+**Last Known Compatiblility for Age of Mythology Retold:** v.100.19.10195.0 (600019R)
       
 New Changes: Updated for Obsidian Mirror DLC. Added darker blood variants to modded red blood pools. The mods still replaces the original red blood pools, as I still am not a fan of their shapes. The new official bloodpools were kept in this version.
 
