@@ -1,0 +1,500 @@
+<blooddatamods>
+<!--Adds decal objects of new bloodpool textures to each bloodgroup. Decal objects mapped in destructionvfx.vfxjson-->
+	<bloodgroup name="defaultblood">
+		<decal>thd_bloodpool01</decal>
+		<decal>thd_bloodpool02</decal>
+		<decal>thd_bloodpool03</decal>
+		<decal>thd_bloodpool04</decal>
+		<decal>thd_bloodpool05</decal>
+		<decal>thd_bloodpool06</decal>
+	</bloodgroup>
+	<bloodgroup name="defaultbloodnoskeleton">
+		<decal>thd_bloodpool01</decal>
+		<decal>thd_bloodpool02</decal>
+		<decal>thd_bloodpool03</decal>
+		<decal>thd_bloodpool04</decal>
+		<decal>thd_bloodpool05</decal>
+		<decal>thd_bloodpool06</decal>
+	</bloodgroup>
+	<bloodgroup name="defaultbloodhorse">
+		<decal>thd_bloodpool01</decal>
+		<decal>thd_bloodpool02</decal>
+		<decal>thd_bloodpool03</decal>
+		<decal>thd_bloodpool04</decal>
+		<decal>thd_bloodpool05</decal>
+		<decal>thd_bloodpool06</decal>
+	</bloodgroup>
+	<bloodgroup name="defaultbloodcamel">
+		<decal>thd_bloodpool01</decal>
+		<decal>thd_bloodpool02</decal>
+		<decal>thd_bloodpool03</decal>
+		<decal>thd_bloodpool04</decal>
+		<decal>thd_bloodpool05</decal>
+		<decal>thd_bloodpool06</decal>
+	</bloodgroup>
+	<bloodgroup name="defaultbloodelephant">
+		<decal>thd_bloodpool01</decal>
+		<decal>thd_bloodpool02</decal>
+		<decal>thd_bloodpool03</decal>
+		<decal>thd_bloodpool04</decal>
+		<decal>thd_bloodpool05</decal>
+		<decal>thd_bloodpool06</decal>
+	</bloodgroup>
+<!--Creates new blood group if not already existing. Not used in this mod-->
+	<bloodgroup name="mythbloodred">
+		<decal>thd_bloodpool01</decal>
+		<decal>thd_bloodpool02</decal>
+		<decal>thd_bloodpool03</decal>
+		<decal>thd_bloodpool04</decal>
+		<decal>thd_bloodpool05</decal>
+		<decal>thd_bloodpool06</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodblue">
+		<decal>thd_prismatic_blood_blue01</decal>
+		<decal>thd_prismatic_blood_blue02</decal>
+		<decal>thd_prismatic_blood_blue03</decal>
+		<decal>thd_prismatic_blood_blue04</decal>
+		<decal>thd_prismatic_blood_small_blue01</decal>
+		<decal>thd_prismatic_blood_small_blue02</decal>
+		<decal>thd_prismatic_blood_small_blue03</decal>
+		<decal>thd_prismatic_blood_small_blue04</decal>
+		<decal>thd_prismatic_blood_small_blue05</decal>
+		<decal>thd_prismatic_blood_small_blue06</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodpurple">
+		<decal>thd_prismatic_blood_purple01</decal>
+		<decal>thd_prismatic_blood_purple02</decal>
+		<decal>thd_prismatic_blood_purple03</decal>
+		<decal>thd_prismatic_blood_purple04</decal>
+		<decal>thd_prismatic_blood_small_purple01</decal>
+		<decal>thd_prismatic_blood_small_purple02</decal>
+		<decal>thd_prismatic_blood_small_purple03</decal>
+		<decal>thd_prismatic_blood_small_purple04</decal>
+		<decal>thd_prismatic_blood_small_purple05</decal>
+		<decal>thd_prismatic_blood_small_purple06</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodgreen">
+		<decal>thd_prismatic_blood_green01</decal>
+		<decal>thd_prismatic_blood_green02</decal>
+		<decal>thd_prismatic_blood_green03</decal>
+		<decal>thd_prismatic_blood_green04</decal>
+		<decal>thd_prismatic_blood_small_green01</decal>
+		<decal>thd_prismatic_blood_small_green02</decal>
+		<decal>thd_prismatic_blood_small_green03</decal>
+		<decal>thd_prismatic_blood_small_green04</decal>
+		<decal>thd_prismatic_blood_small_green05</decal>
+		<decal>thd_prismatic_blood_small_green06</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodyellow">
+		<decal>thd_prismatic_blood_yellow01</decal>
+		<decal>thd_prismatic_blood_yellow02</decal>
+		<decal>thd_prismatic_blood_yellow03</decal>
+		<decal>thd_prismatic_blood_yellow04</decal>
+		<decal>thd_prismatic_blood_small_yellow01</decal>
+		<decal>thd_prismatic_blood_small_yellow02</decal>
+		<decal>thd_prismatic_blood_small_yellow03</decal>
+		<decal>thd_prismatic_blood_small_yellow04</decal>
+		<decal>thd_prismatic_blood_small_yellow05</decal>
+		<decal>thd_prismatic_blood_small_yellow06</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodrainbow">
+		<decal>thd_prismatic_blood_rainbow01</decal>
+		<decal>thd_prismatic_blood_rainbow02</decal>
+		<decal>thd_prismatic_blood_rainbow03</decal>
+		<decal>thd_prismatic_blood_rainbow04</decal>
+		<decal>thd_prismatic_blood_rainbow05</decal>
+		<decal>thd_prismatic_blood_rainbow06</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodwhitegold">
+		<decal>thd_prismatic_blood_white_gold01</decal>
+		<decal>thd_prismatic_blood_white_gold02</decal>
+		<decal>thd_prismatic_blood_white_gold03</decal>
+		<decal>thd_prismatic_blood_white_gold04</decal>
+		<decal>thd_prismatic_blood_white_gold05</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodhorseblue">
+		<decal>thd_prismatic_blood_blue01</decal>
+		<decal>thd_prismatic_blood_blue02</decal>
+		<decal>thd_prismatic_blood_blue03</decal>
+		<decal>thd_prismatic_blood_blue04</decal>
+		<decal>thd_prismatic_blood_small_blue01</decal>
+		<decal>thd_prismatic_blood_small_blue02</decal>
+		<decal>thd_prismatic_blood_small_blue03</decal>
+		<decal>thd_prismatic_blood_small_blue04</decal>
+		<decal>thd_prismatic_blood_small_blue05</decal>
+		<decal>thd_prismatic_blood_small_blue06</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodhorsepurple">
+		<decal>thd_prismatic_blood_purple01</decal>
+		<decal>thd_prismatic_blood_purple02</decal>
+		<decal>thd_prismatic_blood_purple03</decal>
+		<decal>thd_prismatic_blood_purple04</decal>
+		<decal>thd_prismatic_blood_small_purple01</decal>
+		<decal>thd_prismatic_blood_small_purple02</decal>
+		<decal>thd_prismatic_blood_small_purple03</decal>
+		<decal>thd_prismatic_blood_small_purple04</decal>
+		<decal>thd_prismatic_blood_small_purple05</decal>
+		<decal>thd_prismatic_blood_small_purple06</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodhorsegreen">
+		<decal>thd_prismatic_blood_green01</decal>
+		<decal>thd_prismatic_blood_green02</decal>
+		<decal>thd_prismatic_blood_green03</decal>
+		<decal>thd_prismatic_blood_green04</decal>
+		<decal>thd_prismatic_blood_small_green01</decal>
+		<decal>thd_prismatic_blood_small_green02</decal>
+		<decal>thd_prismatic_blood_small_green03</decal>
+		<decal>thd_prismatic_blood_small_green04</decal>
+		<decal>thd_prismatic_blood_small_green05</decal>
+		<decal>thd_prismatic_blood_small_green06</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodhorseyellow">
+		<decal>thd_prismatic_blood_yellow01</decal>
+		<decal>thd_prismatic_blood_yellow02</decal>
+		<decal>thd_prismatic_blood_yellow03</decal>
+		<decal>thd_prismatic_blood_yellow04</decal>
+		<decal>thd_prismatic_blood_small_yellow01</decal>
+		<decal>thd_prismatic_blood_small_yellow02</decal>
+		<decal>thd_prismatic_blood_small_yellow03</decal>
+		<decal>thd_prismatic_blood_small_yellow04</decal>
+		<decal>thd_prismatic_blood_small_yellow05</decal>
+		<decal>thd_prismatic_blood_small_yellow06</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodhorserainbow">
+		<decal>thd_prismatic_blood_rainbow01</decal>
+		<decal>thd_prismatic_blood_rainbow02</decal>
+		<decal>thd_prismatic_blood_rainbow03</decal>
+		<decal>thd_prismatic_blood_rainbow04</decal>
+		<decal>thd_prismatic_blood_rainbow05</decal>
+		<decal>thd_prismatic_blood_rainbow06</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodhorsewhitegold">
+		<decal>thd_prismatic_blood_white_gold01</decal>
+		<decal>thd_prismatic_blood_white_gold02</decal>
+		<decal>thd_prismatic_blood_white_gold03</decal>
+		<decal>thd_prismatic_blood_white_gold04</decal>
+		<decal>thd_prismatic_blood_white_gold05</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodcamelblue">
+		<decal>thd_prismatic_blood_blue01</decal>
+		<decal>thd_prismatic_blood_blue02</decal>
+		<decal>thd_prismatic_blood_blue03</decal>
+		<decal>thd_prismatic_blood_blue04</decal>
+		<decal>thd_prismatic_blood_small_blue01</decal>
+		<decal>thd_prismatic_blood_small_blue02</decal>
+		<decal>thd_prismatic_blood_small_blue03</decal>
+		<decal>thd_prismatic_blood_small_blue04</decal>
+		<decal>thd_prismatic_blood_small_blue05</decal>
+		<decal>thd_prismatic_blood_small_blue06</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodcamelpurple">
+		<decal>thd_prismatic_blood_purple01</decal>
+		<decal>thd_prismatic_blood_purple02</decal>
+		<decal>thd_prismatic_blood_purple03</decal>
+		<decal>thd_prismatic_blood_purple04</decal>
+		<decal>thd_prismatic_blood_small_purple01</decal>
+		<decal>thd_prismatic_blood_small_purple02</decal>
+		<decal>thd_prismatic_blood_small_purple03</decal>
+		<decal>thd_prismatic_blood_small_purple04</decal>
+		<decal>thd_prismatic_blood_small_purple05</decal>
+		<decal>thd_prismatic_blood_small_purple06</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodcamelgreen">
+		<decal>thd_prismatic_blood_green01</decal>
+		<decal>thd_prismatic_blood_green02</decal>
+		<decal>thd_prismatic_blood_green03</decal>
+		<decal>thd_prismatic_blood_green04</decal>
+		<decal>thd_prismatic_blood_small_green01</decal>
+		<decal>thd_prismatic_blood_small_green02</decal>
+		<decal>thd_prismatic_blood_small_green03</decal>
+		<decal>thd_prismatic_blood_small_green04</decal>
+		<decal>thd_prismatic_blood_small_green05</decal>
+		<decal>thd_prismatic_blood_small_green06</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodcamelyellow">
+		<decal>thd_prismatic_blood_yellow01</decal>
+		<decal>thd_prismatic_blood_yellow02</decal>
+		<decal>thd_prismatic_blood_yellow03</decal>
+		<decal>thd_prismatic_blood_yellow04</decal>
+		<decal>thd_prismatic_blood_small_yellow01</decal>
+		<decal>thd_prismatic_blood_small_yellow02</decal>
+		<decal>thd_prismatic_blood_small_yellow03</decal>
+		<decal>thd_prismatic_blood_small_yellow04</decal>
+		<decal>thd_prismatic_blood_small_yellow05</decal>
+		<decal>thd_prismatic_blood_small_yellow06</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodcamelrainbow">
+		<decal>thd_prismatic_blood_rainbow01</decal>
+		<decal>thd_prismatic_blood_rainbow02</decal>
+		<decal>thd_prismatic_blood_rainbow03</decal>
+		<decal>thd_prismatic_blood_rainbow04</decal>
+		<decal>thd_prismatic_blood_rainbow05</decal>
+		<decal>thd_prismatic_blood_rainbow06</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodcamelwhitegold">
+		<decal>thd_prismatic_blood_white_gold01</decal>
+		<decal>thd_prismatic_blood_white_gold02</decal>
+		<decal>thd_prismatic_blood_white_gold03</decal>
+		<decal>thd_prismatic_blood_white_gold04</decal>
+		<decal>thd_prismatic_blood_white_gold05</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodelephantblue">
+		<decal>thd_prismatic_blood_blue01</decal>
+		<decal>thd_prismatic_blood_blue02</decal>
+		<decal>thd_prismatic_blood_blue03</decal>
+		<decal>thd_prismatic_blood_blue04</decal>
+		<decal>thd_prismatic_blood_small_blue01</decal>
+		<decal>thd_prismatic_blood_small_blue02</decal>
+		<decal>thd_prismatic_blood_small_blue03</decal>
+		<decal>thd_prismatic_blood_small_blue04</decal>
+		<decal>thd_prismatic_blood_small_blue05</decal>
+		<decal>thd_prismatic_blood_small_blue06</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodelephantpurple">
+		<decal>thd_prismatic_blood_purple01</decal>
+		<decal>thd_prismatic_blood_purple02</decal>
+		<decal>thd_prismatic_blood_purple03</decal>
+		<decal>thd_prismatic_blood_purple04</decal>
+		<decal>thd_prismatic_blood_small_purple01</decal>
+		<decal>thd_prismatic_blood_small_purple02</decal>
+		<decal>thd_prismatic_blood_small_purple03</decal>
+		<decal>thd_prismatic_blood_small_purple04</decal>
+		<decal>thd_prismatic_blood_small_purple05</decal>
+		<decal>thd_prismatic_blood_small_purple06</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodelephantgreen">
+		<decal>thd_prismatic_blood_green01</decal>
+		<decal>thd_prismatic_blood_green02</decal>
+		<decal>thd_prismatic_blood_green03</decal>
+		<decal>thd_prismatic_blood_green04</decal>
+		<decal>thd_prismatic_blood_small_green01</decal>
+		<decal>thd_prismatic_blood_small_green02</decal>
+		<decal>thd_prismatic_blood_small_green03</decal>
+		<decal>thd_prismatic_blood_small_green04</decal>
+		<decal>thd_prismatic_blood_small_green05</decal>
+		<decal>thd_prismatic_blood_small_green06</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodelephantyellow">
+		<decal>thd_prismatic_blood_yellow01</decal>
+		<decal>thd_prismatic_blood_yellow02</decal>
+		<decal>thd_prismatic_blood_yellow03</decal>
+		<decal>thd_prismatic_blood_yellow04</decal>
+		<decal>thd_prismatic_blood_small_yellow01</decal>
+		<decal>thd_prismatic_blood_small_yellow02</decal>
+		<decal>thd_prismatic_blood_small_yellow03</decal>
+		<decal>thd_prismatic_blood_small_yellow04</decal>
+		<decal>thd_prismatic_blood_small_yellow05</decal>
+		<decal>thd_prismatic_blood_small_yellow06</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodelephantrainbow">
+		<decal>thd_prismatic_blood_rainbow01</decal>
+		<decal>thd_prismatic_blood_rainbow02</decal>
+		<decal>thd_prismatic_blood_rainbow03</decal>
+		<decal>thd_prismatic_blood_rainbow04</decal>
+		<decal>thd_prismatic_blood_rainbow05</decal>
+		<decal>thd_prismatic_blood_rainbow06</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodelephantwhitegold">
+		<decal>thd_prismatic_blood_white_gold01</decal>
+		<decal>thd_prismatic_blood_white_gold02</decal>
+		<decal>thd_prismatic_blood_white_gold03</decal>
+		<decal>thd_prismatic_blood_white_gold04</decal>
+		<decal>thd_prismatic_blood_white_gold05</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodbluenoskeleton">
+		<decal>thd_prismatic_blood_blue01</decal>
+		<decal>thd_prismatic_blood_blue02</decal>
+		<decal>thd_prismatic_blood_blue03</decal>
+		<decal>thd_prismatic_blood_blue04</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodpurplenoskeleton">
+		<decal>thd_prismatic_blood_purple01</decal>
+		<decal>thd_prismatic_blood_purple02</decal>
+		<decal>thd_prismatic_blood_purple03</decal>
+		<decal>thd_prismatic_blood_purple04</decal>
+		<decal>thd_prismatic_blood_small_purple01</decal>
+		<decal>thd_prismatic_blood_small_purple02</decal>
+		<decal>thd_prismatic_blood_small_purple03</decal>
+		<decal>thd_prismatic_blood_small_purple04</decal>
+		<decal>thd_prismatic_blood_small_purple05</decal>
+		<decal>thd_prismatic_blood_small_purple06</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodgreennoskeleton">
+		<decal>thd_prismatic_blood_green01</decal>
+		<decal>thd_prismatic_blood_green02</decal>
+		<decal>thd_prismatic_blood_green03</decal>
+		<decal>thd_prismatic_blood_green04</decal>
+		<decal>thd_prismatic_blood_small_green01</decal>
+		<decal>thd_prismatic_blood_small_green02</decal>
+		<decal>thd_prismatic_blood_small_green03</decal>
+		<decal>thd_prismatic_blood_small_green04</decal>
+		<decal>thd_prismatic_blood_small_green05</decal>
+		<decal>thd_prismatic_blood_small_green06</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodyellownoskeleton">
+		<decal>thd_prismatic_blood_yellow01</decal>
+		<decal>thd_prismatic_blood_yellow02</decal>
+		<decal>thd_prismatic_blood_yellow03</decal>
+		<decal>thd_prismatic_blood_yellow04</decal>
+		<decal>thd_prismatic_blood_small_yellow01</decal>
+		<decal>thd_prismatic_blood_small_yellow02</decal>
+		<decal>thd_prismatic_blood_small_yellow03</decal>
+		<decal>thd_prismatic_blood_small_yellow04</decal>
+		<decal>thd_prismatic_blood_small_yellow05</decal>
+		<decal>thd_prismatic_blood_small_yellow06</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodrainbownoskeleton">
+		<decal>thd_prismatic_blood_rainbow01</decal>
+		<decal>thd_prismatic_blood_rainbow02</decal>
+		<decal>thd_prismatic_blood_rainbow03</decal>
+		<decal>thd_prismatic_blood_rainbow04</decal>
+		<decal>thd_prismatic_blood_rainbow05</decal>
+		<decal>thd_prismatic_blood_rainbow06</decal>
+	</bloodgroup>
+	<bloodgroup name="mythbloodwhitegoldnoskeleton">
+		<decal>thd_prismatic_blood_white_gold01</decal>
+		<decal>thd_prismatic_blood_white_gold02</decal>
+		<decal>thd_prismatic_blood_white_gold03</decal>
+		<decal>thd_prismatic_blood_white_gold04</decal>
+		<decal>thd_prismatic_blood_white_gold05</decal>
+	</bloodgroup>
+<!--Creates new blood group if not already existing. Not used in this mod-->
+	<bloodgroup name="titanbloodred">
+		<decal>thd_bloodpool01</decal>
+		<decal>thd_bloodpool02</decal>
+		<decal>thd_bloodpool03</decal>
+		<decal>thd_bloodpool04</decal>
+		<decal>thd_bloodpool05</decal>
+		<decal>thd_bloodpool06</decal>
+		<decal>thd_bloodpool07</decal>
+		<decal>thd_bloodpool08</decal>
+		<decal>thd_bloodpool09</decal>
+		<decal>thd_bloodpool10</decal>
+	</bloodgroup>
+	<bloodgroup name="titanbloodblue">
+		<decal>thd_prismatic_blood_blue01</decal>
+		<decal>thd_prismatic_blood_blue02</decal>
+		<decal>thd_prismatic_blood_blue03</decal>
+		<decal>thd_prismatic_blood_blue04</decal>
+		<decal>thd_prismatic_blood_small_blue01</decal>
+		<decal>thd_prismatic_blood_small_blue02</decal>
+		<decal>thd_prismatic_blood_small_blue03</decal>
+		<decal>thd_prismatic_blood_small_blue04</decal>
+		<decal>thd_prismatic_blood_small_blue05</decal>
+		<decal>thd_prismatic_blood_small_blue06</decal>
+	</bloodgroup>
+	<bloodgroup name="titanbloodpurple">
+		<decal>thd_prismatic_blood_purple01</decal>
+		<decal>thd_prismatic_blood_purple02</decal>
+		<decal>thd_prismatic_blood_purple03</decal>
+		<decal>thd_prismatic_blood_purple04</decal>
+		<decal>thd_prismatic_blood_small_purple01</decal>
+		<decal>thd_prismatic_blood_small_purple02</decal>
+		<decal>thd_prismatic_blood_small_purple03</decal>
+		<decal>thd_prismatic_blood_small_purple04</decal>
+		<decal>thd_prismatic_blood_small_purple05</decal>
+		<decal>thd_prismatic_blood_small_purple06</decal>
+	</bloodgroup>
+	<bloodgroup name="titanbloodgreen">
+		<decal>thd_prismatic_blood_green01</decal>
+		<decal>thd_prismatic_blood_green02</decal>
+		<decal>thd_prismatic_blood_green03</decal>
+		<decal>thd_prismatic_blood_green04</decal>
+		<decal>thd_prismatic_blood_small_green01</decal>
+		<decal>thd_prismatic_blood_small_green02</decal>
+		<decal>thd_prismatic_blood_small_green03</decal>
+		<decal>thd_prismatic_blood_small_green04</decal>
+		<decal>thd_prismatic_blood_small_green05</decal>
+		<decal>thd_prismatic_blood_small_green06</decal>
+	</bloodgroup>
+	<bloodgroup name="titanbloodyellow">
+		<decal>thd_prismatic_blood_yellow01</decal>
+		<decal>thd_prismatic_blood_yellow02</decal>
+		<decal>thd_prismatic_blood_yellow03</decal>
+		<decal>thd_prismatic_blood_yellow04</decal>
+		<decal>thd_prismatic_blood_small_yellow01</decal>
+		<decal>thd_prismatic_blood_small_yellow02</decal>
+		<decal>thd_prismatic_blood_small_yellow03</decal>
+		<decal>thd_prismatic_blood_small_yellow04</decal>
+		<decal>thd_prismatic_blood_small_yellow05</decal>
+		<decal>thd_prismatic_blood_small_yellow06</decal>
+	</bloodgroup>
+	<bloodgroup name="titanbloodrainbow">
+		<decal>thd_prismatic_blood_rainbow01</decal>
+		<decal>thd_prismatic_blood_rainbow02</decal>
+		<decal>thd_prismatic_blood_rainbow03</decal>
+		<decal>thd_prismatic_blood_rainbow04</decal>
+		<decal>thd_prismatic_blood_rainbow05</decal>
+		<decal>thd_prismatic_blood_rainbow06</decal>
+	</bloodgroup>
+	<bloodgroup name="titanbloodwhitegold">
+		<decal>thd_prismatic_blood_white_gold01</decal>
+		<decal>thd_prismatic_blood_white_gold02</decal>
+		<decal>thd_prismatic_blood_white_gold03</decal>
+		<decal>thd_prismatic_blood_white_gold04</decal>
+		<decal>thd_prismatic_blood_white_gold05</decal>
+	</bloodgroup>
+	<bloodgroup name="titanbloodbluenoskeleton">
+		<decal>thd_prismatic_blood_blue01</decal>
+		<decal>thd_prismatic_blood_blue02</decal>
+		<decal>thd_prismatic_blood_blue03</decal>
+		<decal>thd_prismatic_blood_blue04</decal>
+		<decal>thd_prismatic_blood_small_blue01</decal>
+		<decal>thd_prismatic_blood_small_blue02</decal>
+		<decal>thd_prismatic_blood_small_blue03</decal>
+		<decal>thd_prismatic_blood_small_blue04</decal>
+		<decal>thd_prismatic_blood_small_blue05</decal>
+		<decal>thd_prismatic_blood_small_blue06</decal>
+	</bloodgroup>
+	<bloodgroup name="titanbloodpurplenoskeleton">
+		<decal>thd_prismatic_blood_purple01</decal>
+		<decal>thd_prismatic_blood_purple02</decal>
+		<decal>thd_prismatic_blood_purple03</decal>
+		<decal>thd_prismatic_blood_purple04</decal>
+		<decal>thd_prismatic_blood_small_purple01</decal>
+		<decal>thd_prismatic_blood_small_purple02</decal>
+		<decal>thd_prismatic_blood_small_purple03</decal>
+		<decal>thd_prismatic_blood_small_purple04</decal>
+		<decal>thd_prismatic_blood_small_purple05</decal>
+		<decal>thd_prismatic_blood_small_purple06</decal>
+	</bloodgroup>
+	<bloodgroup name="titanbloodgreennoskeleton">
+		<decal>thd_prismatic_blood_green01</decal>
+		<decal>thd_prismatic_blood_green02</decal>
+		<decal>thd_prismatic_blood_green03</decal>
+		<decal>thd_prismatic_blood_green04</decal>
+		<decal>thd_prismatic_blood_small_green01</decal>
+		<decal>thd_prismatic_blood_small_green02</decal>
+		<decal>thd_prismatic_blood_small_green03</decal>
+		<decal>thd_prismatic_blood_small_green04</decal>
+		<decal>thd_prismatic_blood_small_green05</decal>
+		<decal>thd_prismatic_blood_small_green06</decal>
+	</bloodgroup>
+	<bloodgroup name="titanbloodyellownoskeleton">
+		<decal>thd_prismatic_blood_yellow01</decal>
+		<decal>thd_prismatic_blood_yellow02</decal>
+		<decal>thd_prismatic_blood_yellow03</decal>
+		<decal>thd_prismatic_blood_yellow04</decal>
+		<decal>thd_prismatic_blood_small_yellow01</decal>
+		<decal>thd_prismatic_blood_small_yellow02</decal>
+		<decal>thd_prismatic_blood_small_yellow03</decal>
+		<decal>thd_prismatic_blood_small_yellow04</decal>
+		<decal>thd_prismatic_blood_small_yellow05</decal>
+		<decal>thd_prismatic_blood_small_yellow06</decal>
+	</bloodgroup>
+	<bloodgroup name="titanbloodrainbownoskeleton">
+		<decal>thd_prismatic_blood_rainbow01</decal>
+		<decal>thd_prismatic_blood_rainbow02</decal>
+		<decal>thd_prismatic_blood_rainbow03</decal>
+		<decal>thd_prismatic_blood_rainbow04</decal>
+		<decal>thd_prismatic_blood_rainbow05</decal>
+		<decal>thd_prismatic_blood_rainbow06</decal>
+	</bloodgroup>
+	<bloodgroup name="titanbloodwhitegoldnoskeleton">
+		<decal>thd_prismatic_blood_white_gold01</decal>
+		<decal>thd_prismatic_blood_white_gold02</decal>
+		<decal>thd_prismatic_blood_white_gold03</decal>
+		<decal>thd_prismatic_blood_white_gold04</decal>
+		<decal>thd_prismatic_blood_white_gold05</decal>
+	</bloodgroup>
+</blooddatamods>
